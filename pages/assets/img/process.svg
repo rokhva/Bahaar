@@ -1,99 +1,99 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="1000" viewBox="0 0 800 1000">
   <defs>
-    <clipPath id="clip-custom_3">
+    <clipPath id="clip-custom_7">
       <rect width="800" height="1000"/>
     </clipPath>
   </defs>
-  <g id="custom_3" data-name="custom – 3" clip-path="url(#clip-custom_3)">
+  <g id="custom_7" data-name="custom – 7" clip-path="url(#clip-custom_7)">
     <rect width="800" height="1000" fill="#fff"/>
     <rect id="Rectangle_41948" data-name="Rectangle 41948" width="800" height="1000" fill="#f5f5f5"/>
-    <g id="Group_142332" data-name="Group 142332" transform="translate(0 -29)">
-      <g id="Group_142323" data-name="Group 142323" transform="translate(-77 31)">
-        <g id="Group_142322" data-name="Group 142322" transform="translate(138)">
-          <path id="Path_27107" data-name="Path 27107" d="M9983.84,8698.389c-67.175-29.789-99.764,34.636-99.764,34.636h99.764Z" transform="translate(-9787.012 -8442.024)" fill="#f5b569"/>
-          <g id="Rectangle_41949" data-name="Rectangle 41949" transform="translate(97 191)" fill="none" stroke="#f5b569" stroke-width="5">
-            <rect width="100" height="99.687" stroke="none"/>
-            <rect x="2.5" y="2.5" width="95" height="94.687" fill="none"/>
+    <text id="Finished_Project" data-name="Finished 
+Project" transform="translate(586 157)" fill="#615b76" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="0.572" y="16">Finished </tspan><tspan x="5.756" y="38">Project</tspan></text>
+    <text id="Project_Idea" data-name="Project 
+Idea" transform="translate(142 157)" fill="#615b76" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="18.756" y="16">Project </tspan><tspan x="27.932" y="38">Idea</tspan></text>
+    <text id="Discovery" transform="translate(233 157)" fill="#f5b569" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="4.124" y="16">Discovery</tspan></text>
+    <text id="Concept_Validation" data-name="Concept Validation" transform="translate(307 157)" fill="#d36e7b" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="19.82" y="16">Concept </tspan><tspan x="15.364" y="38">Validation</tspan></text>
+    <text id="Design" transform="translate(412 157)" fill="#a7697e" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="5.46" y="16">Design</tspan></text>
+    <text id="Usability_Testing" data-name="Usability &amp; Testing" transform="translate(494 157)" fill="#455976" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="5.444" y="16">Usability </tspan><tspan x="2.3" y="38">&amp; Testing</tspan></text>
+    <g id="Group_154302" data-name="Group 154302" transform="translate(120.765 16.298)">
+      <g id="Group_142323" data-name="Group 142323" transform="translate(116.278 193)">
+        <g id="Group_142322" data-name="Group 142322" transform="translate(0 0)">
+          <path id="Path_27107" data-name="Path 27107" d="M9951.322,8695.825c-45.279-20.079-67.246,23.347-67.246,23.347h67.246Z" transform="translate(-9884.033 -8651.767)" fill="#f5b569"/>
+          <g id="Rectangle_41949" data-name="Rectangle 41949" fill="none" stroke="#f5b569" stroke-width="5">
+            <rect width="67.405" height="67.194" stroke="none"/>
+            <rect x="2.5" y="2.5" width="62.405" height="62.194" fill="none"/>
           </g>
         </g>
       </g>
-      <g id="Group_142324" data-name="Group 142324" transform="translate(-205 31)">
-        <g id="Group_142322-2" data-name="Group 142322" transform="translate(138)">
-          <g id="Rectangle_41949-2" data-name="Rectangle 41949" transform="translate(97 191)" fill="none" stroke="#615b76" stroke-width="5">
-            <rect width="100" height="99.687" stroke="none"/>
-            <rect x="2.5" y="2.5" width="95" height="94.687" fill="none"/>
+      <g id="Group_142324" data-name="Group 142324" transform="translate(30 193)">
+        <g id="Group_142322-2" data-name="Group 142322" transform="translate(0 0)">
+          <g id="Rectangle_41949-2" data-name="Rectangle 41949" fill="none" stroke="#615b76" stroke-width="5">
+            <rect width="67.405" height="67.194" stroke="none"/>
+            <rect x="2.5" y="2.5" width="62.405" height="62.194" fill="none"/>
           </g>
         </g>
       </g>
-      <g id="Group_142326" data-name="Group 142326" transform="translate(-74.829 31)">
-        <path id="Path_27108" data-name="Path 27108" d="M9883.982,8613.122c22.884-21.641,39.759-14.128,61.439-2.208s38.731-4.479,38.731-4.479v57.732H9883.985Z" transform="translate(-9523.153 -8373.889)" fill="#d36e7b"/>
-        <g id="Group_142325" data-name="Group 142325" transform="translate(126)">
-          <g id="Group_142322-3" data-name="Group 142322" transform="translate(138)">
-            <g id="Rectangle_41949-3" data-name="Rectangle 41949" transform="translate(97 191)" fill="none" stroke="#d36e7b" stroke-width="5">
-              <rect width="100" height="99.687" stroke="none"/>
-              <rect x="2.5" y="2.5" width="95" height="94.687" fill="none"/>
+      <g id="Group_142326" data-name="Group 142326" transform="translate(202.557 193)">
+        <path id="Path_27108" data-name="Path 27108" d="M9883.982,8608.635c15.425-14.586,26.8-9.523,41.413-1.488s26.107-3.019,26.107-3.019v38.915h-67.519Z" transform="translate(-9883.982 -8576.123)" fill="#d36e7b"/>
+        <g id="Group_142325" data-name="Group 142325" transform="translate(0.115 0)">
+          <g id="Group_142322-3" data-name="Group 142322">
+            <g id="Rectangle_41949-3" data-name="Rectangle 41949" fill="none" stroke="#d36e7b" stroke-width="5">
+              <rect width="67.405" height="67.194" stroke="none"/>
+              <rect x="2.5" y="2.5" width="62.405" height="62.194" fill="none"/>
             </g>
           </g>
         </g>
       </g>
-      <g id="Group_142330" data-name="Group 142330" transform="translate(-16 3)">
-        <g id="Group_142327" data-name="Group 142327" transform="translate(70 28)">
-          <g id="Group_142325-2" data-name="Group 142325" transform="translate(126)">
-            <g id="Group_142322-4" data-name="Group 142322" transform="translate(138)">
-              <g id="Rectangle_41949-4" data-name="Rectangle 41949" transform="translate(97 191)" fill="none" stroke="#a7697e" stroke-width="5">
-                <rect width="100" height="99.687" stroke="none"/>
-                <rect x="2.5" y="2.5" width="95" height="94.687" fill="none"/>
+      <g id="Group_142330" data-name="Group 142330" transform="translate(289.509 193)">
+        <g id="Group_142327" data-name="Group 142327">
+          <g id="Group_142325-2" data-name="Group 142325" transform="translate(0 0)">
+            <g id="Group_142322-4" data-name="Group 142322" transform="translate(0)">
+              <g id="Rectangle_41949-4" data-name="Rectangle 41949" fill="none" stroke="#a7697e" stroke-width="5">
+                <rect width="67.405" height="67.194" stroke="none"/>
+                <rect x="2.5" y="2.5" width="62.405" height="62.194" fill="none"/>
               </g>
             </g>
           </g>
         </g>
-        <path id="Path_41" data-name="Path 41" d="M9978.222,8441.188s-16.917,26.5-41.469,32.244-53.647-6.605-53.647-6.605v69.126h95.116Z" transform="translate(-9449.684 -8220.187)" fill="#a7697e"/>
+        <path id="Path_41" data-name="Path 41" d="M9947.219,8441.188s-11.4,17.865-27.952,21.734-36.161-4.452-36.161-4.452v46.594h64.113Z" transform="translate(-9881.473 -8439.839)" fill="#a7697e"/>
       </g>
-      <g id="Group_142329" data-name="Group 142329" transform="translate(-16 3)">
-        <g id="Group_142328" data-name="Group 142328" transform="translate(198 28)">
-          <g id="Group_142325-3" data-name="Group 142325" transform="translate(126)">
-            <g id="Group_142322-5" data-name="Group 142322" transform="translate(138)">
-              <g id="Rectangle_41949-5" data-name="Rectangle 41949" transform="translate(97 191)" fill="none" stroke="#455976" stroke-width="5">
-                <rect width="100" height="99.687" stroke="none"/>
-                <rect x="2.5" y="2.5" width="95" height="94.687" fill="none"/>
+      <g id="Group_142329" data-name="Group 142329" transform="translate(375.787 193)">
+        <g id="Group_142328" data-name="Group 142328" transform="translate(0)">
+          <g id="Group_142325-3" data-name="Group 142325" transform="translate(0 0)">
+            <g id="Group_142322-5" data-name="Group 142322" transform="translate(0)">
+              <g id="Rectangle_41949-5" data-name="Rectangle 41949" fill="none" stroke="#455976" stroke-width="5">
+                <rect width="67.405" height="67.194" stroke="none"/>
+                <rect x="2.5" y="2.5" width="62.405" height="62.194" fill="none"/>
               </g>
             </g>
           </g>
         </g>
-        <path id="Path_27109" data-name="Path 27109" d="M9973.812,8441.675c-9.376,13.425-21.7,24.574-35.3,29.769-11.581,3.49-23.173,2.892-32.769,1.274a100.551,100.551,0,0,1-23-6.631v-24.412Z" transform="translate(-9319.441 -8218.032)" fill="#455976"/>
+        <path id="Path_27109" data-name="Path 27109" d="M9944.129,8441.675c-6.32,9.05-14.627,16.564-23.795,20.065-7.806,2.354-15.619,1.949-22.087.859a67.824,67.824,0,0,1-15.5-4.47v-16.455Z" transform="translate(-9879.844 -8438.546)" fill="#455976"/>
       </g>
-      <rect id="Rectangle_41950" data-name="Rectangle 41950" width="100" height="100" transform="translate(671 222)" fill="#615b76"/>
-      <text id="Finished_Project" data-name="Finished 
-Project" transform="translate(678 151)" fill="#615b76" font-size="21" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="2.256" y="21">Finished </tspan><tspan x="8.304" y="50">Project</tspan></text>
-      <text id="Project_Idea" data-name="Project 
-Idea" transform="translate(37 151)" fill="#615b76" font-size="21" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="7.804" y="21">Project </tspan><tspan x="21.611" y="50">Idea</tspan></text>
-      <text id="Discovery" transform="translate(158 151)" fill="#f5b569" font-size="21" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="1.496" y="21">Discovery</tspan></text>
-      <text id="Concept_Validation" data-name="Concept Validation" transform="translate(286 151)" fill="#d36e7b" font-size="21" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="8.899" y="21">Concept </tspan><tspan x="0.898" y="50">Validation</tspan></text>
-      <text id="Design" transform="translate(429 151)" fill="#a7697e" font-size="21" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="2.27" y="21">Design</tspan></text>
-      <text id="Useability_Testing" data-name="Useability &amp; Testing" transform="translate(543 151)" fill="#455976" font-size="21" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0.276" y="21">Useability </tspan><tspan x="3.027" y="50">&amp; Testing</tspan></text>
-      <path id="Path_27111" data-name="Path 27111" d="M9982.521,8441.675c-10.272,14.826-23.776,27.14-38.676,32.874-12.687,3.855-25.389,3.194-35.9,1.409a109.56,109.56,0,0,1-25.2-7.321v-26.962Z" transform="translate(-9211.535 -8219.053)" fill="#455976"/>
-      <path id="Path_27112" data-name="Path 27112" d="M9982.661,8441.187s-17.706,27.742-43.4,33.75-56.152-6.915-56.152-6.915v72.354h99.557Z" transform="translate(-9212.104 -8218.747)" fill="#a7697e"/>
-      <path id="Path_27113" data-name="Path 27113" d="M9883.982,8612.95c22.6-21.37,39.261-13.952,60.672-2.181s38.247-4.422,38.247-4.422v57.01h-98.916Z" transform="translate(-9212.345 -8342.077)" fill="#d36e7b"/>
-      <path id="Path_27114" data-name="Path 27114" d="M9982.5,8697.154c-66.275-25.111-98.428,29.2-98.428,29.2H9982.5Z" transform="translate(-9212.313 -8404.978)" fill="#f5b569"/>
-      <g id="Rectangle_41951" data-name="Rectangle 41951" transform="translate(671 222)" fill="none" stroke="#615b76" stroke-width="5">
-        <rect width="100" height="100" stroke="none"/>
-        <rect x="2.5" y="2.5" width="95" height="95" fill="none"/>
+      <rect id="Rectangle_41950" data-name="Rectangle 41950" width="67" height="68" transform="translate(462.235 192.702)" fill="#615b76"/>
+      <path id="Path_27111" data-name="Path 27111" d="M9950,8441.675c-6.924,9.993-16.025,18.294-26.068,22.159-8.553,2.6-17.113,2.152-24.2.949a73.9,73.9,0,0,1-16.986-4.935v-18.174Z" transform="translate(-9420.537 -8248.256)" fill="#455976"/>
+      <path id="Path_27112" data-name="Path 27112" d="M9950.211,8441.187s-11.935,18.7-29.257,22.749-37.85-4.66-37.85-4.66v48.77h67.106Z" transform="translate(-9421.039 -8247.891)" fill="#a7697e"/>
+      <path id="Path_27113" data-name="Path 27113" d="M9883.982,8608.52c15.232-14.4,26.464-9.4,40.9-1.471s25.78-2.98,25.78-2.98V8642.5h-66.675Z" transform="translate(-9421.487 -8382.577)" fill="#d36e7b"/>
+      <path id="Path_27114" data-name="Path 27114" d="M9950.422,8694.993c-44.674-16.927-66.346,19.68-66.346,19.68h66.346Z" transform="translate(-9421.496 -8454.69)" fill="#f5b569"/>
+      <g id="Rectangle_41951" data-name="Rectangle 41951" transform="translate(462.235 192.702)" fill="none" stroke="#615b76" stroke-width="5">
+        <rect width="67" height="68" stroke="none"/>
+        <rect x="2.5" y="2.5" width="62" height="63" fill="none"/>
       </g>
-      <g id="Group_142331" data-name="Group 142331" transform="translate(7 -16)">
-        <path id="Path_42" data-name="Path 42" d="M10381.988,8441.674c-51.4,74.184-118.972,135.8-193.521,164.49-63.484,19.29-127.035,15.984-179.637,7.05-74.294-12.624-126.087-36.635-126.087-36.635V8441.674Z" transform="translate(-9738.753 -8015.186)" fill="#455976"/>
-        <path id="Path_41-2" data-name="Path 41" d="M10381.247,8441.187s-88.6,138.811-217.179,168.871-280.964-34.6-280.964-34.6v362.024h498.143Z" transform="translate(-9740.158 -8015.612)" fill="#a7697e"/>
-        <path id="Path_39" data-name="Path 39" d="M9883.982,8667.379c113.066-106.931,196.447-69.812,303.576-10.913s191.375-22.128,191.375-22.128V8919.6H9883.994Z" transform="translate(-9737.846 -7999.458)" fill="#d36e7b"/>
-        <path id="Path_38" data-name="Path 38" d="M10376.568,8723.7c-331.615-125.647-492.492,146.091-492.492,146.091h492.492Z" transform="translate(-9737.307 -7949.184)" fill="#f5b569"/>
-        <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(143 423)" fill="none" stroke="#615b76" stroke-width="7">
-          <rect width="500" height="500" stroke="none"/>
-          <rect x="3.5" y="3.5" width="493" height="493" fill="none"/>
-        </g>
-        <text id="Define_the_problem_you_want_to_test_with_the_team" data-name="Define the problem you want to test with the team" transform="translate(353 846)" fill="#f5f5f5" font-size="21" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="40.956" y="21">Define the problem you </tspan><tspan x="14.958" y="50">want to test with the team</tspan></text>
-        <text id="Test_your_problem_statement_with_customer_calls_and_data" data-name="Test your problem statement with customer calls and data" transform="translate(162 681)" fill="#f5f5f5" font-size="21" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="21">Test your problem statement </tspan><tspan x="0" y="50">with customer calls and data</tspan></text>
-        <text id="Turn_feedback_knowledge_into_designs" data-name="Turn feedback &amp; knowledge into designs" transform="translate(452 584)" fill="#f5f5f5" font-size="21" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="6.09" y="21">Turn feedback &amp; </tspan><tspan x="10.08" y="50">knowledge into </tspan><tspan x="47.649" y="79">designs</tspan></text>
-        <text id="Repeat_until_a_solution_has_been_found_that_fits_within_the_product_teams_scope_and_addresses_customer_need._" data-name="Repeat until a solution has been found that fits within the product teams scope and addresses customer need.
-" transform="translate(162 440)" fill="#f5f5f5" font-size="21" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="21">Repeat until a solution has </tspan><tspan x="0" y="50">been found that fits within the </tspan><tspan x="0" y="79">product teams scope and </tspan><tspan x="0" y="108">addresses customer need.</tspan></text>
+    </g>
+    <g id="Group_142331" data-name="Group 142331" transform="translate(7 -45)">
+      <path id="Path_42" data-name="Path 42" d="M10381.988,8441.674c-51.4,74.184-118.972,135.8-193.521,164.49-63.484,19.29-127.035,15.984-179.637,7.05-74.294-12.624-126.087-36.635-126.087-36.635V8441.674Z" transform="translate(-9738.753 -8015.186)" fill="#455976"/>
+      <path id="Path_41-2" data-name="Path 41" d="M10381.247,8441.187s-88.6,138.811-217.179,168.871-280.964-34.6-280.964-34.6v362.024h498.143Z" transform="translate(-9740.158 -8015.612)" fill="#a7697e"/>
+      <path id="Path_39" data-name="Path 39" d="M9883.982,8667.379c113.066-106.931,196.447-69.812,303.576-10.913s191.375-22.128,191.375-22.128V8919.6H9883.994Z" transform="translate(-9737.846 -7999.458)" fill="#d36e7b"/>
+      <path id="Path_38" data-name="Path 38" d="M10376.568,8723.7c-331.615-125.647-492.492,146.091-492.492,146.091h492.492Z" transform="translate(-9737.307 -7949.184)" fill="#f5b569"/>
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(143 423)" fill="none" stroke="#615b76" stroke-width="7">
+        <rect width="500" height="500" stroke="none"/>
+        <rect x="3.5" y="3.5" width="493" height="493" fill="none"/>
       </g>
+      <text id="Define_the_problem_you_want_to_test_with_the_team" data-name="Define the problem you want to test with the team" transform="translate(353 846)" fill="#f5f5f5" font-size="21" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="45.177" y="21">Define the problem you </tspan><tspan x="24.933" y="50">want to test with the team</tspan></text>
+      <text id="Test_your_problem_statement_with_customer_calls_and_data" data-name="Test your problem statement with customer calls and data" transform="translate(162 681)" fill="#f5f5f5" font-size="21" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="0" y="21">Test your problem statement </tspan><tspan x="0" y="50">with customer calls and data</tspan></text>
+      <text id="Turn_feedback_knowledge_into_designs" data-name="Turn feedback &amp; knowledge into designs" transform="translate(452 584)" fill="#f5f5f5" font-size="21" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="7.739" y="21">Turn feedback &amp; </tspan><tspan x="11.634" y="50">knowledge into </tspan><tspan x="48.027" y="79">designs</tspan></text>
+      <text id="Repeat_until_a_solution_has_been_found_that_fits_within_the_product_teams_scope_and_addresses_customer_need._" data-name="Repeat until a solution has been found that fits within the product teams scope and addresses customer need.
+" transform="translate(162 440)" fill="#f5f5f5" font-size="21" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="0" y="21">Repeat until a solution has been </tspan><tspan x="0" y="50">found that fits within the </tspan><tspan x="0" y="79">product teams scope and </tspan><tspan x="0" y="108">addresses customer need.</tspan></text>
     </g>
   </g>
 </svg>
