@@ -13,7 +13,7 @@
   </defs>
   <g id="Artboard_6" data-name="Artboard – 6" clip-path="url(#clip-Artboard_6)">
     <rect width="317" height="317" fill="#f5f5f5"/>
-    <text id="VIDEO_GUIDE" data-name="VIDEO GUIDE" transform="translate(99 32)" fill="#2c2c2c" font-size="14" font-family="AdobeClean-Black, Adobe Clean" font-weight="800" letter-spacing="0.2em"><tspan x="8.056" y="14">VIDEO GUIDE</tspan></text>
+    <text id="IN_PRODUCT_PROTOTYPE_GUIDE" data-name="IN PRODUCT PROTOTYPE GUIDE" transform="translate(19 28)" fill="#2c2c2c" font-size="14" font-family="AdobeClean-Black, Adobe Clean" font-weight="800" letter-spacing="0.2em"><tspan x="5.992" y="14">IN PRODUCT PROTOTYPE GUIDE</tspan></text>
     <g id="Group_141283" data-name="Group 141283" transform="translate(-460.456 -136)">
       <rect id="Background" width="278" height="233" rx="4" transform="translate(480.456 199)" fill="#fff"/>
       <text id="Enable_Smart_Filters_" data-name="Enable Smart Filters?" transform="translate(498.456 226)" fill="#323232" font-size="8" font-family="AdobeClean-Bold, Adobe Clean" font-weight="700"><tspan x="0" y="0">Pathing Visualization</tspan></text>
@@ -37,7 +37,7 @@
             <rect id="Rectangle_39553" data-name="Rectangle 39553" width="64.857" height="4.23" transform="translate(10.433 8.46)" fill="#fff"/>
           </g>
           <rect id="Rectangle_39552" data-name="Rectangle 39552" width="238.684" height="135.687" transform="translate(1.128 0)" fill="url(#linear-gradient)"/>
-          <g id="Group_141253" data-name="Group 141253" transform="translate(104.851 57.16)">
+          <g id="Group_141253" data-name="Group 141253" transform="translate(104.851 57.16)" opacity="0.27">
             <rect id="Rectangle_39551" data-name="Rectangle 39551" width="31.864" height="21.713" rx="10.856" fill="#151515" opacity="0.697"/>
             <path id="Path_26300" data-name="Path 26300" d="M5677.379-6103.23v9.061l8.15-4.438Z" transform="translate(-5664.583 6109.651)" fill="#fff"/>
           </g>
