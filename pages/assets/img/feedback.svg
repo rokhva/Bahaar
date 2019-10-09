@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="317" height="317" viewBox="0 0 317 317">
+  <defs>
+    <clipPath id="clip-Artboard_5">
+      <rect width="317" height="317"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_5" data-name="Artboard – 5" clip-path="url(#clip-Artboard_5)">
+    <rect width="317" height="317" fill="#f5f5f5"/>
+    <g id="Group_31010" data-name="Group 31010" transform="translate(-524 -104.413)">
+      <g id="Group_31007" data-name="Group 31007" transform="translate(527 319.994)">
+        <text id="Standard_Slider" data-name="Standard Slider" transform="translate(0 9.419)" fill="#707070" font-size="9" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="0" y="0">Strongly Agree</tspan></text>
+        <text id="Standard_Slider-2" data-name="Standard Slider" transform="translate(156 9.419)" fill="#707070" font-size="9" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="-13.576" y="0">Neutral</tspan></text>
+        <text id="Standard_Slider-3" data-name="Standard Slider" transform="translate(308 9.419)" fill="#707070" font-size="9" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="-63.819" y="0">Strongly Disagree</tspan></text>
+      </g>
+      <g id="Group_31008" data-name="Group 31008" transform="translate(526.952 303.818)">
+        <rect id="rectangle-25" width="2" height="8" rx="1" transform="translate(0.048 2.595)" fill="#4b4b4b"/>
+        <rect id="rectangle-25-2" data-name="rectangle-25" width="2" height="8" rx="1" transform="translate(78.048 2.595)" fill="#4b4b4b"/>
+        <rect id="rectangle-25-3" data-name="rectangle-25" width="142" height="2" rx="1" transform="translate(168.048 5.595)" fill="#4b4b4b"/>
+        <rect id="rectangle-25-4" data-name="rectangle-25" width="2" height="8" rx="1" transform="translate(232.048 2.595)" fill="#4b4b4b"/>
+        <rect id="rectangle-25-5" data-name="rectangle-25" width="2" height="8" rx="1" transform="translate(309.048 2.595)" fill="#4b4b4b"/>
+        <rect id="rectangle-25-6" data-name="rectangle-25" width="143" height="2" rx="1" transform="translate(0.048 5.595)" fill="#4b4b4b"/>
+        <g id="Group_31005" data-name="Group 31005" transform="translate(149.393 0)">
+          <g id="ellipse-2" transform="translate(-0.345 -0.405)" fill="none" stroke="#4b4b4b" stroke-width="2">
+            <circle cx="7" cy="7" r="7" stroke="none"/>
+            <circle cx="7" cy="7" r="6" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="GATHERING_FEEDBACK" data-name="GATHERING FEEDBACK" transform="translate(59 32)" fill="#2c2c2c" font-size="14" font-family="AdobeClean-Black, Adobe Clean" font-weight="800" letter-spacing="0.2em"><tspan x="7.052" y="14">GATHERING FEEDBACK</tspan></text>
+    <text id="As_long_as_the_input_mechanism_was_easy_users_were_happy_to_offer_feedback." data-name="As long as the input mechanism was easy, users were  happy to offer feedback." transform="translate(41 57.531)" fill="#2c2c2c" font-size="14" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="14.029" y="14">As long as the input mechanism was </tspan><tspan x="28.526" y="34" xml:space="preserve">easy, users were  happy to offer </tspan><tspan x="89.902" y="54">feedback.</tspan></text>
+  </g>
+</svg>
