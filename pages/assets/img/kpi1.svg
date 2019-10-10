@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="317" height="317" viewBox="0 0 317 317">
+  <defs>
+    <filter id="Rectangle_136633" x="68.5" y="62.5" width="173" height="173" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_8">
+      <rect width="317" height="317"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_8" data-name="Artboard – 8" clip-path="url(#clip-Artboard_8)">
+    <rect width="317" height="317" fill="#f5f5f5"/>
+    <text id="STANDARD_KPI_TILE" data-name="STANDARD KPI TILE" transform="translate(68 35)" fill="#2c2c2c" font-size="14" font-family="AdobeClean-Black, Adobe Clean" font-weight="800" letter-spacing="0.2em"><tspan x="3.67" y="14">STANDARD KPI TILE</tspan></text>
+    <text id="The_tiles_display_the_current_value_percent_change_and_a_spark-line_preview." data-name="The tiles display the current value, percent change,  and a spark-line preview." transform="translate(26 243.531)" fill="#2c2c2c" font-size="14" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="13.632" y="14">The tiles display the current value, percent </tspan><tspan x="37.509" y="34" xml:space="preserve">change,  and a spark-line preview.</tspan></text>
+    <g id="Group_151386" data-name="Group 151386" transform="translate(57 -43)">
+      <g transform="matrix(1, 0, 0, 1, -57, 43)" filter="url(#Rectangle_136633)">
+        <g id="Rectangle_136633-2" data-name="Rectangle 136633" transform="translate(73 66)" fill="#fff" stroke="#eaeaea" stroke-width="1">
+          <rect width="164" height="164" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="163" height="163" rx="3.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_151260" data-name="Group 151260" transform="translate(0 -1)">
+        <g id="Group_151248" data-name="Group 151248" transform="translate(16.101 4.459)">
+          <path id="Path_35152" data-name="Path 35152" d="M-958.835,6165.421l19.115-10.545,18.7,10.545,20.872-10.545,19.509,5.129,17.8-3.588" transform="translate(992.234 -5927.395)" fill="none" stroke="#d3d3d3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Path_35151" data-name="Path 35151" d="M0,0,18.549,12.109H37.93L57.835-1.927,76.512,12.109,95.978,0" transform="translate(129.399 236.028) rotate(180)" fill="none" stroke="#378ef0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="DETAIL" transform="translate(64 145)">
+          <text id="DETAIL-2" data-name="DETAIL" transform="translate(1 13)" fill="#505050" font-size="15" font-family="AdobeClean-Regular, Adobe Clean" letter-spacing="0.06em"><tspan x="0" y="0">REVENUE</tspan></text>
+        </g>
+        <g id="Heading_1" data-name="Heading 1" transform="translate(52 164)">
+          <text id="Heading_1-2" data-name="Heading 1" transform="translate(-1 42)" fill="#323232" font-size="39" font-family="AdobeClean-Medium, Adobe Clean" font-weight="500"><tspan x="0" y="0">10.6M</tspan></text>
+        </g>
+      </g>
+      <g id="Group_151259" data-name="Group 151259" transform="translate(-5 -4)">
+        <g id="Group_151251" data-name="Group 151251" transform="translate(-96 -126)">
+          <g id="DETAIL-3" data-name="DETAIL" transform="translate(136.5 245.952)">
+            <text id="DETAIL-4" data-name="DETAIL" transform="translate(0 13)" fill="#379947" font-size="15" font-family="AdobeClean-Regular, Adobe Clean" letter-spacing="0.06em"><tspan x="0" y="0">10%</tspan></text>
+          </g>
+        </g>
+        <path id="Path_35227" data-name="Path 35227" d="M8102.7,5487.881l3.189,6.062h-6.208Z" transform="translate(-8070.55 -5361.632)" fill="#379947"/>
+      </g>
+    </g>
+  </g>
+</svg>

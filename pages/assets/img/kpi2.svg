@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="317" height="317" viewBox="0 0 317 317">
+  <defs>
+    <filter id="Rectangle_137731" x="68.5" y="63.5" width="173" height="173" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_9">
+      <rect width="317" height="317"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_9" data-name="Artboard – 9" clip-path="url(#clip-Artboard_9)">
+    <rect width="317" height="317" fill="#f5f5f5"/>
+    <text id="PERCENT_CHANGE_TILE" data-name="PERCENT CHANGE TILE" transform="translate(56 37)" fill="#2c2c2c" font-size="14" font-family="AdobeClean-Black, Adobe Clean" font-weight="800" letter-spacing="0.2em"><tspan x="2.916" y="14">PERCENT CHANGE TILE</tspan></text>
+    <text id="The_tiles_layout_can_be_changed_based_on_the_users_preferences." data-name="The tiles’ layout can be changed based on the users preferences." transform="translate(26 243.531)" fill="#2c2c2c" font-size="14" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="3.755" y="14">The tiles’ layout can be changed based on the </tspan><tspan x="81.679" y="34">users preferences.</tspan></text>
+    <g id="Group_154322" data-name="Group 154322" transform="translate(-7990 -5020)">
+      <g transform="matrix(1, 0, 0, 1, 7990, 5020)" filter="url(#Rectangle_137731)">
+        <g id="Rectangle_137731-2" data-name="Rectangle 137731" transform="translate(73 67)" fill="#fff" stroke="#eaeaea" stroke-width="1">
+          <rect width="164" height="164" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="163" height="163" rx="3.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_151248" data-name="Group 151248" transform="translate(8095.568 5207.02)">
+        <path id="Path_35152" data-name="Path 35152" d="M-958.835,6163.344l13.073-8.467,12.791,8.467,14.275-8.467,13.343,4.119,12.176-2.881" transform="translate(958.835 -6151.878)" fill="none" stroke="#d3d3d3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_35151" data-name="Path 35151" d="M0,1.564l12.685,9.83H25.939L39.552,0,52.324,11.394l13.312-9.83" transform="translate(65.658 11.394) rotate(180)" fill="none" stroke="#378ef0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="DETAIL" transform="translate(8111 5128)">
+        <text id="DETAIL-2" data-name="DETAIL" transform="translate(1 13)" fill="#505050" font-size="15" font-family="AdobeClean-Regular, Adobe Clean" letter-spacing="0.06em"><tspan x="0" y="0">REVENUE</tspan></text>
+      </g>
+      <g id="Group_151292" data-name="Group 151292" transform="translate(8166.5 5202.952)">
+        <g id="Group_151251" data-name="Group 151251">
+          <g id="DETAIL-3" data-name="DETAIL">
+            <text id="DETAIL-4" data-name="DETAIL" transform="translate(0 15)" fill="#707070" font-size="15" font-family="AdobeClean-Regular, Adobe Clean" letter-spacing="0.06em"><tspan x="0" y="0">10M</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_151293" data-name="Group 151293" transform="translate(-1.997)">
+        <g id="Heading_1" data-name="Heading 1" transform="translate(8124 5142)">
+          <text id="Heading_1-2" data-name="Heading 1" transform="translate(-1 42)" fill="#379947" font-size="39" font-family="AdobeClean-Medium, Adobe Clean" font-weight="500"><tspan x="0" y="0">10%</tspan></text>
+        </g>
+        <path id="Path_35234" data-name="Path 35234" d="M8107.414,5487.881l8.166,15.521h-15.9Z" transform="translate(2.316 -324.668)" fill="#379947"/>
+      </g>
+    </g>
+  </g>
+</svg>
