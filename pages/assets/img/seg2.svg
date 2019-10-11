@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="317" height="317" viewBox="0 0 317 317">
+  <defs>
+    <filter id="rectangle-18" x="42" y="95" width="233" height="145" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#2d2d2d" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_13">
+      <rect width="317" height="317"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_13" data-name="Artboard – 13" clip-path="url(#clip-Artboard_13)">
+    <rect width="317" height="317" fill="#f5f5f5"/>
+    <text id="TYPE_TO_ADD" data-name="TYPE TO ADD" transform="translate(68 35)" fill="#2c2c2c" font-size="14" font-family="AdobeClean-Black, Adobe Clean" font-weight="800" letter-spacing="0.2em"><tspan x="30.136" y="14">TYPE TO ADD</tspan></text>
+    <text id="Alternative_and_quicker_than_drag_and_drop_to_add_pieces_to_the_segment." data-name="Alternative (and quicker than drag and drop) to add pieces to the segment." transform="translate(26 243.531)" fill="#2c2c2c" font-size="14" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="6.772" y="14">Alternative (and quicker than drag and drop) </tspan><tspan x="49.507" y="34">to add pieces to the segment.</tspan></text>
+    <g id="Group_154327" data-name="Group 154327" transform="translate(-12578 -12977)">
+      <g id="Group_154296" data-name="Group 154296" transform="translate(12626 13041)">
+        <g id="Group_29544" data-name="Group 29544" transform="translate(0)">
+          <g id="rectangle-18-2" data-name="rectangle-18" transform="translate(0)" fill="#fff">
+            <path d="M 188.2968902587891 31.5 L 5.001246929168701 31.5 C 2.519247055053711 31.5 0.5000089406967163 29.92990493774414 0.5000089406967163 28 L 0.5000089406967163 4 C 0.5000089406967163 2.070095300674438 2.519247055053711 0.5 5.001246929168701 0.5 L 188.2968902587891 0.5 L 188.2968902587891 31.5 Z" stroke="none"/>
+            <path d="M 5.001220703125 1 C 3.891510009765625 1 2.857406616210938 1.338285446166992 2.08941650390625 1.952524185180664 C 1.386886596679688 2.514404296875 0.9999847412109375 3.241548538208008 0.9999847412109375 4 L 0.9999847412109375 28 C 0.9999847412109375 28.75845336914062 1.386886596679688 29.485595703125 2.08941650390625 30.04747581481934 C 2.857406616210938 30.66171455383301 3.891510009765625 31 5.001220703125 31 L 187.7968597412109 31 L 187.7968597412109 1 L 5.001220703125 1 M 5.001220703125 0 L 188.7968597412109 0 L 188.7968597412109 32 L 5.001220703125 32 C 2.239120483398438 32 -1.52587890625e-05 30.20914268493652 -1.52587890625e-05 28 L -1.52587890625e-05 4 C -1.52587890625e-05 1.790857315063477 2.239120483398438 0 5.001220703125 0 Z" stroke="none" fill="#cacaca"/>
+          </g>
+          <g id="rectangle-18-3" data-name="rectangle-18" transform="translate(188)" fill="#fbfbfb" stroke="#cacaca" stroke-width="1">
+            <path d="M0,0H30a4,4,0,0,1,4,4V28a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+            <path d="M1,.5H30A3.5,3.5,0,0,1,33.5,4V28A3.5,3.5,0,0,1,30,31.5H1A.5.5,0,0,1,.5,31V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+          </g>
+          <path id="Path_697" data-name="Path 697" d="M11,2a1,1,0,0,0-1.71-.71L6,4.59,2.71,1.29A1,1,0,1,0,1.29,2.71l4,4a1,1,0,0,0,1.41,0l4-4A1,1,0,0,0,11,2Z" transform="translate(198.801 13.006)" fill="#707070"/>
+        </g>
+        <path id="Rectangle_1255" data-name="Rectangle 1255" d="M4,0H5A0,0,0,0,1,5,0V32a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" fill="#da7b11"/>
+      </g>
+      <g id="Group_154297" data-name="Group 154297" transform="translate(12653 13041)">
+        <text id="Typography" transform="translate(0 21)" fill="#323232" font-size="15" font-family="AdobeClean-It, Adobe Clean" font-style="italic"><tspan x="0" y="0">|</tspan></text>
+        <g id="rectangle-18-4" data-name="rectangle-18" transform="translate(161)" fill="#eaeaea" stroke="#cacaca" stroke-width="1">
+          <path d="M0,0H30a4,4,0,0,1,4,4V28a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+          <path d="M1,.5H30A3.5,3.5,0,0,1,33.5,4V28A3.5,3.5,0,0,1,30,31.5H1A.5.5,0,0,1,.5,31V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+        </g>
+        <path id="Path_697-2" data-name="Path 697" d="M11,2a1,1,0,0,0-1.71-.71L6,4.59,2.71,1.29A1,1,0,1,0,1.29,2.71l4,4a1,1,0,0,0,1.41,0l4-4A1,1,0,0,0,11,2Z" transform="translate(171.801 13.006)" fill="#2c2c2c"/>
+      </g>
+      <g id="Group_4865" data-name="Group 4865" transform="translate(12626 13077)">
+        <g transform="matrix(1, 0, 0, 1, -48, -100)" filter="url(#rectangle-18)">
+          <g id="rectangle-18-5" data-name="rectangle-18" transform="translate(48 100)" fill="#fff" stroke="#bcbcbc" stroke-width="1">
+            <rect width="221" height="133" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="220" height="132" rx="3.5" fill="none"/>
+          </g>
+        </g>
+        <text id="Typography-2" data-name="Typography" transform="translate(12.545 22)" fill="#4b4b4b" font-size="13" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="0" y="0">Exit Page</tspan><tspan x="0" y="32">Page</tspan><tspan x="0" y="64">Entry Page</tspan><tspan x="0" y="96">Paid Search</tspan><tspan x="0" y="128"></tspan></text>
+      </g>
+      <rect id="Rectangle_30568" data-name="Rectangle 30568" width="221" height="32" transform="translate(12626 13109)" fill="rgba(44,44,44,0.04)"/>
+      <image id="cursor-pointer" width="17" height="22" transform="translate(12794 13125)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAWCAYAAAAmaHdCAAABs2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzIgNzkuMTU5Mjg0LCAyMDE2LzA0LzE5LTEzOjEzOjQwICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIgogICB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE1LjUgKE1hY2ludG9zaCkiLz4KIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+Cjw/eHBhY2tldCBlbmQ9InIiPz4rYQ3wAAAAh0lEQVQ4jd2USw7AIAhEgfT+V54uqilQP4jtppOYuMDnMH6I2kIZIXELAFzrmblXYyTR3f4DmYZ8TAl3yBpkwl5qB0CFGnfpTBSMRFHDl8uDpGHTFz3mXqadUeGoToiIy/VOqzrZAj1OJ9pSD5J2s/V26lfhISk3r7zi3raYBax/vW+drKw/ATPdOhHZIQqUAAAAAElFTkSuQmCC"/>
+      <text id="Typography-3" data-name="Typography" transform="translate(12640 13063)" fill="#2c2c2c" font-size="14" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="0" y="0">Pa</tspan></text>
+    </g>
+  </g>
+</svg>
