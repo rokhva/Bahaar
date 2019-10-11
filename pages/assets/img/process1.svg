@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="932" height="368" viewBox="0 0 932 368">
+  <defs>
+    <clipPath id="clip-Artboard_10">
+      <rect width="932" height="368"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_10" data-name="Artboard – 10" clip-path="url(#clip-Artboard_10)">
+    <rect width="932" height="368" fill="#f5f5f5"/>
+    <g id="Group_154323" data-name="Group 154323" transform="translate(0 -1)">
+      <g id="Ellipse_5456" data-name="Ellipse 5456" transform="translate(113 181)" fill="none" stroke="#455976" stroke-width="3">
+        <circle cx="7" cy="7" r="7" stroke="none"/>
+        <circle cx="7" cy="7" r="5.5" fill="none"/>
+      </g>
+      <path id="Path_35251" data-name="Path 35251" d="M1308.654,3511.846h138.793s16.15-2.157,17.7,20.514,6.065,26.485,12.75,29.178c3.684,1.484,16.089,3.857,23.963,0,5.969-2.923,7.951-11.624,8.122-15.093.228-4.638.237-11.9.175-20.493-.1-13.832-.4-31-.175-43.647.361-20.107-2.86-33.465,15.909-34.371s20.406,0,20.406,0,16.108-2.05,17.412,14.058,0,81.163,0,81.163.507,12.93,12.5,14.292a107.922,107.922,0,0,0,22.812,0s11.319-3.779,11.638-15.94.373-43.377-1.5-56.069-7.12-18.258-27.39-16.7-44.638-3.959-46.612,24.868,0,85.548,0,85.548.413,23.767,22.926,25.053,81.458,0,81.458,0,24.811-2.825,25.481-25.053-1.791-134.713-1.791-134.713,3.44-26.6-23.69-31.231-54.168.717-55.546,23.712,0,79.983,0,79.983,3.784,14.05,11.916,14.5,10.48-3.184,13.247-9.28,1.107-28.786,17.165-28.935,16.222,11.9,18.211,17.122,2.52,18.614,18.586,19.008,18.674-15.894,18.674-15.894v-27.991s-.867-19,22.832-18.077,23.569,5.228,25.884,14.325a69.552,69.552,0,0,1,1.658,18.967s2.637,10.371,11.521,9.663,10.288-9.663,10.288-9.663l-1.562-50.852s.983-7.266-11.719-7.025-29.691,0-29.691,0-12.409-1.046-12.5,9.008,0,86.356,0,86.356-1.542,11.908,11.435,11.978,62.3,0,62.3,0,8.458-.018,8.5-10.169,0-32.416,0-32.416-1.634-11.44-13.416-12.362-43.677,0-43.677,0-10.84.078-10.374,11.144,0,56.688,0,56.688-.954,11.283,10.374,11.821,67.326,0,67.326,0,9.862.787,9.765-10.646-1.2-76.529-1.2-76.529,1.325-10.988,9.322-10.542,8.947,8.333,8.947,8.333v47.383s-.624,7.839,9.015,8.686,8.931-8.686,8.931-8.686-.257-8.183,0-12.88,2.086-7.477,9.688-7.91,141.935-1.717,141.935-1.717" transform="translate(-1182 -3323)" fill="none" stroke="#455976" stroke-width="3"/>
+      <g id="Ellipse_5457" data-name="Ellipse 5457" transform="translate(805 180)" fill="none" stroke="#455976" stroke-width="3">
+        <circle cx="7" cy="7" r="7" stroke="none"/>
+        <circle cx="7" cy="7" r="5.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Project_Idea" data-name="Project Idea" transform="translate(46 208)" fill="#455976" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="31.108" y="16">Project Idea</tspan></text>
+    <text id="Finished_Project" data-name="Finished Project" transform="translate(728 208)" fill="#455976" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="23.748" y="16">Finished Project</tspan></text>
+    <text id="HOW_THE_DESIGN_PROCESS_IS_ALWAYS_DESCRIBED" data-name="HOW THE DESIGN PROCESS IS ALWAYS DESCRIBED" transform="translate(248 39)" fill="#455976" font-size="14" font-family="AdobeClean-Black, Adobe Clean" font-weight="800" letter-spacing="0.2em"><tspan x="0" y="14">HOW THE DESIGN PROCESS IS ALWAYS DESCRIBED</tspan></text>
+  </g>
+</svg>
