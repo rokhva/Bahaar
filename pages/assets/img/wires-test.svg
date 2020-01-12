@@ -1,0 +1,359 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="874" height="946" viewBox="0 0 874 946">
+  <defs>
+    <style>
+      .cls-1, .cls-11, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-custom_12);
+      }
+
+      .cls-11, .cls-3, .cls-8 {
+        stroke: #000;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 5px;
+      }
+
+      .cls-4 {
+        stroke: #e3deda;
+      }
+
+      .cls-5, .cls-6, .cls-9 {
+        fill: #e3deda;
+      }
+
+      .cls-10, .cls-12, .cls-6 {
+        font-size: 14px;
+      }
+
+      .cls-6, .cls-9 {
+        font-family: HelveticaNeue, Helvetica Neue;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-9 {
+        font-size: 8px;
+        opacity: 0.83;
+      }
+
+      .cls-10 {
+        font-family: AdobeClean-Black, Adobe Clean;
+        font-weight: 800;
+        letter-spacing: 0.2em;
+      }
+
+      .cls-12 {
+        font-family: AdobeClean-LightIt, Adobe Clean;
+        font-weight: 300;
+        font-style: italic;
+      }
+
+      .cls-13 {
+        stroke: none;
+      }
+
+      .cls-14 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="419.512" height="233.437"/>
+    </clipPath>
+    <clipPath id="clip-custom_12">
+      <rect width="874" height="946"/>
+    </clipPath>
+  </defs>
+  <g id="custom_12" data-name="custom – 12" class="cls-2">
+    <rect class="cls-14" width="874" height="946"/>
+    <g id="Group_30979" data-name="Group 30979" transform="translate(31 15)">
+      <g id="Rectangle_31131" data-name="Rectangle 31131" class="cls-3" transform="translate(181 52)">
+        <rect class="cls-13" width="439" height="267"/>
+        <rect class="cls-1" x="2.5" y="2.5" width="434" height="262"/>
+      </g>
+      <rect id="Rectangle_31132" data-name="Rectangle 31132" width="436" height="21" transform="translate(181 56)"/>
+      <g id="Ellipse_260" data-name="Ellipse 260" class="cls-4" transform="translate(192 58)">
+        <circle class="cls-13" cx="7" cy="7" r="7"/>
+        <circle class="cls-1" cx="7" cy="7" r="4.5"/>
+      </g>
+      <rect id="Rectangle_31133" data-name="Rectangle 31133" class="cls-5" width="27" height="7" rx="2" transform="translate(214 62)"/>
+      <rect id="Rectangle_31134" data-name="Rectangle 31134" class="cls-5" width="27" height="7" rx="2" transform="translate(271 62)"/>
+      <rect id="Rectangle_31135" data-name="Rectangle 31135" class="cls-5" width="27" height="7" rx="2" transform="translate(305 62)"/>
+      <rect id="Rectangle_31136" data-name="Rectangle 31136" class="cls-5" width="27" height="7" rx="2" transform="translate(339 62)"/>
+      <circle id="Ellipse_261" data-name="Ellipse 261" class="cls-5" cx="5" cy="5" r="5" transform="translate(599 60)"/>
+      <circle id="Ellipse_262" data-name="Ellipse 262" class="cls-5" cx="3" cy="3" r="3" transform="translate(586 62)"/>
+      <circle id="Ellipse_263" data-name="Ellipse 263" class="cls-5" cx="3" cy="3" r="3" transform="translate(575 62)"/>
+      <rect id="Rectangle_31137" data-name="Rectangle 31137" width="436" height="21" transform="translate(181 78)"/>
+      <text id="Labs_Home" data-name="Labs Home" class="cls-6" transform="translate(192 80)"><tspan x="0" y="13">Labs Home</tspan></text>
+      <g id="Repeat_Grid_24" data-name="Repeat Grid 24" class="cls-7" transform="translate(197 85.563)">
+        <g id="Group_30962" data-name="Group 30962" transform="translate(-192 -90.563)">
+          <g id="Rectangle_31138" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-2" data-name="Group 30962" transform="translate(-107 -90.563)">
+          <g id="Rectangle_31138-2" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-2" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-2" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-2" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-2" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-2" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-2" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-2" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-2" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-3" data-name="Group 30962" transform="translate(-22 -90.563)">
+          <g id="Rectangle_31138-3" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-3" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-3" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-3" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-3" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-3" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-3" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-3" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-3" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-4" data-name="Group 30962" transform="translate(63 -90.563)">
+          <g id="Rectangle_31138-4" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-4" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-4" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-4" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-4" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-4" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-4" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-4" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-4" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-5" data-name="Group 30962" transform="translate(148 -90.563)">
+          <g id="Rectangle_31138-5" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-5" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-5" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-5" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-5" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-5" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-5" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-5" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-5" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-6" data-name="Group 30962" transform="translate(-192 -1.563)">
+          <g id="Rectangle_31138-6" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-6" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-6" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-6" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-6" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-6" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-6" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-6" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-6" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-7" data-name="Group 30962" transform="translate(-107 -1.563)">
+          <g id="Rectangle_31138-7" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-7" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-7" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-7" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-7" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-7" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-7" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-7" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-7" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-8" data-name="Group 30962" transform="translate(-22 -1.563)">
+          <g id="Rectangle_31138-8" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-8" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-8" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-8" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-8" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-8" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-8" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-8" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-8" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-9" data-name="Group 30962" transform="translate(63 -1.563)">
+          <g id="Rectangle_31138-9" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-9" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-9" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-9" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-9" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-9" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-9" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-9" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-9" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-10" data-name="Group 30962" transform="translate(148 -1.563)">
+          <g id="Rectangle_31138-10" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-10" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-10" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-10" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-10" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-10" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-10" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-10" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-10" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-11" data-name="Group 30962" transform="translate(-192 87.437)">
+          <g id="Rectangle_31138-11" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-11" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-11" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-11" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-11" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-11" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-11" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-11" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-11" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-12" data-name="Group 30962" transform="translate(-107 87.437)">
+          <g id="Rectangle_31138-12" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-12" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-12" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-12" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-12" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-12" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-12" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-12" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-12" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-13" data-name="Group 30962" transform="translate(-22 87.437)">
+          <g id="Rectangle_31138-13" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-13" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-13" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-13" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-13" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-13" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-13" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-13" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-13" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-14" data-name="Group 30962" transform="translate(63 87.437)">
+          <g id="Rectangle_31138-14" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-14" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-14" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-14" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-14" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-14" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-14" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-14" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-14" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+        <g id="Group_30962-15" data-name="Group 30962" transform="translate(148 87.437)">
+          <g id="Rectangle_31138-15" data-name="Rectangle 31138" class="cls-3" transform="translate(192 110)">
+            <rect class="cls-13" width="72" height="81"/>
+            <rect class="cls-1" x="2.5" y="2.5" width="67" height="76"/>
+          </g>
+          <path id="Path_1231-15" data-name="Path 1231" class="cls-3" d="M-810.469,3142.5h68.73" transform="translate(1004 -2992)"/>
+          <path id="Path_1232-15" data-name="Path 1232" class="cls-3" d="M-808,3106.508l63.791,33.833" transform="translate(1004 -2992)"/>
+          <path id="Path_1233-15" data-name="Path 1233" class="cls-3" d="M-807.117,3104.334l64.649,39.063" transform="translate(-2089.015 -2102.41) rotate(-60)"/>
+          <rect id="Rectangle_31139-15" data-name="Rectangle 31139" width="38" height="2" rx="1" transform="translate(200 157)"/>
+          <g id="Rectangle_31140-15" data-name="Rectangle 31140" class="cls-8" transform="translate(220 171)">
+            <rect class="cls-13" width="35" height="11" rx="5.5"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="34" height="10" rx="5"/>
+          </g>
+          <rect id="Rectangle_31141-15" data-name="Rectangle 31141" width="50" height="2" rx="1" transform="translate(200 161)"/>
+          <rect id="Rectangle_31142-15" data-name="Rectangle 31142" width="50" height="2" rx="1" transform="translate(200 165)"/>
+          <text id="Launch-15" data-name="Launch" class="cls-9" transform="translate(224 171)"><tspan x="0" y="8">Launch</tspan></text>
+        </g>
+      </g>
+      <text id="LANDING_PAGE" data-name="LANDING PAGE" class="cls-10" transform="translate(178 25)"><tspan x="3.404" y="14">LANDING PAGE</tspan></text>
+    </g>
+    <path id="Path_1243" data-name="Path 1243" class="cls-11" d="M-812.2,3125.688s-15.449-23.5-52.136-6.6-33.945-18.609-33.945-18.609" transform="translate(1035 -2977)"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M3,0,6,5H0Z" transform="matrix(-0.819, 0.574, -0.574, -0.819, 227.745, 150.474)"/>
+    <text id="Visual_landing_page_with_a_brief_description_of_each_prototype_" data-name="Visual landing page, with a brief description of each prototype " class="cls-12" transform="translate(49 63)"><tspan x="11.153" y="14">Visual landing page, </tspan><tspan x="5.217" y="30">with a brief description </tspan><tspan x="18.818" y="46">of each prototype </tspan></text>
+    <path id="Polygon_2" data-name="Polygon 2" d="M3,0,6,5H0Z" transform="matrix(-0.921, -0.391, 0.391, -0.921, 632.638, 267.62)"/>
+    <text id="Clear_call_to_action_for_the_user_to_launch_a_prototype_" data-name="Clear call to action for the user to launch a prototype " class="cls-12" transform="translate(685 171)"><tspan x="7.499" y="14">Clear call to action for </tspan><tspan x="12.847" y="30">the user to launch a </tspan><tspan x="39.433" y="46">prototype </tspan></text>
+    <path id="Path_1244" data-name="Path 1244" class="cls-11" d="M-345.33,3166.6s-22.055-4.767-26.236,11.136,7.354,57.8-9.991,59.052-20.707,13.729-20.707,13.729" transform="translate(1033 -2987)"/>
+  </g>
+</svg>
